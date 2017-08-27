@@ -1,6 +1,6 @@
 #encoding:utf-8
 from douyu.chat.room import ChatRoom
-import time,os,MySQLdb
+import time,os
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
